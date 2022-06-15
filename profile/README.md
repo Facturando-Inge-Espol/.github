@@ -1,5 +1,6 @@
 ## Fiorella importa el proyecto 🐈
-
+<img width="91" alt="image" src="https://user-images.githubusercontent.com/55510918/173922127-e3758b22-b6b1-4387-9434-79fa1a1fb02c.png">
+❤️⬆️ Para Geo y Jona 
 <!--
 
 **Here are some ideas to get you started:**
