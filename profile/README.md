@@ -1,13 +1,23 @@
-## Fiorella importa el proyecto 🐈
-<img width="91" alt="image" src="https://user-images.githubusercontent.com/55510918/173922127-e3758b22-b6b1-4387-9434-79fa1a1fb02c.png">
-❤️⬆️ Para Geo y Jona 
-<!--
+# UrbaPass system
+UrbaPass has a mobile and web application for administrating payments and visits in an urbanization. The mobile application has a user who is the resident who must be authenticated through a login, once inside the user must be able to pay an aliquot, see the expenses of the urbanization and generate an invitation, which is a QR that the resident will give to the guest.
+The QR must be scanned by a QR scanner at the time the guest arrives at the urbanization and then their access will be allowed.
+The web application works as a control panel, which will have two users, the administrator, and the guard. Within this control panel, the administrator can register residents of the urbanization and a guard. He will also be able to view the payments made by transfers and the invitations granted by the residents. The guard will only be able to observe the invitations granted by the residents, so that in case the QR scanner does not read the QR code correctly, the guard can check the data of the person who enters.
+## Repositories
+All the repositories inside this organization are private* and are organized in different folders:
+-	**Backend** (where we store a REST API that allows the communication between the client and server)
+-	**Frontend** (where we store the code of the web application – control panel)
+-	**App** (where we store the code of the flutter mobile application) 
+-	**T4** (where we store the communication and SCRUM evidence)
 
-**Here are some ideas to get you started:**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+*If you want to see all the private repositories of our organization, please send an email to fgyerovi@espol.edu.ec, or enter to GitHub with the credentials specified in the section 6 (Annexes) of our report. 
+
+## Mobile application - .apk
+This file for the mobile application can be found in [.apk Download](https://drive.google.com/file/d/1AYrdPBiBvlxEMeRMMf4ilc2v5QDyZ31L/view?usp=sharing)
+
+## Web application
+The web application can be found in [this site](http://13.58.192.139:4200)
+
+## Video
+A video where we present an introduction of our system, the number of user stories that our system has, the number of sprints needed to develop the system, the architecture of our system, and the interaction of different users performing test cases on our system can be found in this [Youtube video](https://www.youtube.com/watch?v=m7ku7mzKodQ)
+
