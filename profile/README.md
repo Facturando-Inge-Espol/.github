@@ -13,7 +13,7 @@ All the repositories inside this organization are private* and are organized in 
 *If you want to see all the private repositories of our organization, please send an email to fgyerovi@espol.edu.ec, or enter to GitHub with the credentials specified in the section 6 (Annexes) of our report. 
 
 ## Mobile application - .apk
-This file for the mobile application can be found in [.apk Download](https://drive.google.com/file/d/1AYrdPBiBvlxEMeRMMf4ilc2v5QDyZ31L/view?usp=sharing)
+This file for the mobile application can be found in [.apk Download](https://drive.google.com/file/d/1uioLsAB5Di6HrfkR6xs9JneRZs9PzF6f/view?usp=sharing)
 
 ## Web application
 The web application can be found in [this site](http://13.58.192.139:4200)
